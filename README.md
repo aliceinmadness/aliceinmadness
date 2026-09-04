@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://files.catbox.moe/joiz7a.jpg" width="400" height="300">
 
-<p align="center">
-  <img src="https://files.catbox.moe/9h8a79.png" width="125" height="100">
 
 <p align="center">
 <sub>sizteen ⋆˚꩜｡ He / Them</sub> <sup>infj 5w4</sup>

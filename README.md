@@ -15,7 +15,7 @@
  <sub> w2i  <sup>ⴵ</sup> c+h </sub>
 
 <sup><ins>Feel free to interact</ins> — I might be shy at first though.... </sup>
-<sub>f.41.1</sub>
+<sub>f.41.2</sub>
 
 <p align="center">
 <sub><a href="https://rosetery.straw.page" target="_blank">strawpage</a></sub> 

@@ -17,7 +17,7 @@
 <sub>f.41.2</sub>
 
 <p align="center">
-<sub><a href="https://rosetery.straw.page" target="_blank">strawpage</a></sub> 
+<sub><a href="https://lilystudy.straw.page" target="_blank">strawpage</a></sub> 
 
 <p align="center">
   <img src="https://files.catbox.moe/nls3zh.png" width="150" height="300">

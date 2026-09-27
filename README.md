@@ -2,7 +2,8 @@
   
 ![](https://komarev.com/ghpvc/?username=aliceinmadness&color=aba4a1&label=♡&style=plastic)
 
-<sub> " If I could just know . " </sub>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dokdo&pause=10&color=B5B5B5&center=true&width=435&lines=+If+I+could+just+know+." alt="Typing SVG" /></a>
+  
 <p align="center">
   <img src="https://files.catbox.moe/joiz7a.jpg" width="400" height="300">
 
